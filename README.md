@@ -133,4 +133,4 @@ This project was loosely inspired by [AGiannoutsos/car_racer_gym](https://github
 
 Ayushman Mishra  
 MS in Robotics and Autonomous Systems (Mechanical & Aerospace) – Arizona State University  
-GitHub: [agnizero](https://github.com/agnizero)
+GitHub: [aymisx](https://github.com/aymisx)
