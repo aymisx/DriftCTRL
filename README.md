@@ -8,15 +8,15 @@ This project applies and evaluates major reinforcement learning algorithms (PPO,
 
 ```
 driftCTRL/
-├── notebooks/              # Jupyter Notebooks for each agent
+├── notebooks/               # Jupyter Notebooks for each agent
 │   ├── PPO_driftCTRL.ipynb
 │   ├── DQN_driftCTRL.ipynb
 │   └── A2C_driftCTRL.ipynb
-├── models/                 # Trained model zip files
-├── logs/                   # Training monitor logs (CSV)
-├── videos/                 # Recorded driving behavior (MP4)
-├── requirements.txt        # Required Python packages
-└── README.md               # This file
+├── models/                  # Trained model zip files
+├── logs/                    # Training monitor logs (CSV)
+├── videos/                  # Recorded driving behavior (MP4)
+├── requirements.txt         # Required Python packages
+└── README.md                # This file
 ```
 
 ---
